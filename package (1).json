@@ -1,0 +1,10 @@
+{
+  "name": "genz-health",
+  "version": "1.0.0",
+  "description": "Remote patient monitoring prototype for rural Uttar Pradesh (NEWS2 risk scoring, anomaly checks, AI triage)",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test_scoring.js",
+    "start": "npx serve ."
+  }
+}
